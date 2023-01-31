@@ -1,6 +1,6 @@
 # CodeStrike- A E-Learning Platform
 
-<h2>Introducing the E-Learning Platform System</h2>
+<h2>Introducing a EVOLUTIONARY E-Learning Platform System</h2>
 
 Dear All,
 
@@ -11,6 +11,26 @@ With the rapid increase in educational institutions in recent years, the need to
 Only students who have joined the course or have permission will be able to view the materials published by the teacher. This provides a secure and efficient way for teachers to share their knowledge and reach a larger audience.
 
 We hope that our platform will make it easier for teachers to adapt to the changing landscape of education and continue to provide high-quality education to students. If you have any questions or would like to know more about our platform, please feel free to reach out.
+
+Here is a brief overview of the key activities and features our platform offers:
+
+1. Student Data Management: Our platform maintains the data of all students, ensuring that their information is secure and accessible only by authorized personnel.
+
+2. Content Upload by Admin: Admins can add course-related content such as videos, notes, and other materials through the platform's user-friendly admin panel.
+
+3. Admin Login and Dashboard: Admins can access their dashboard and admin panel through a secure login.
+
+4. Student Enrollment: Students can request to join a course, and the teacher can provide them with a student ID and password.
+
+5. Student Login and Homepage: Once enrolled, students can log in to their home page with their ID and password and access the content provided by their teacher.
+
+6. Quiz Creation by Admin: Admins can create MCQ quizzes and add custom timers for students to complete them.
+
+7. Information Management: Our platform provides a comprehensive system for managing the information of students and teachers.
+
+8. Notes Editing: Admins can edit notes and other documents, and students can view the updated information in real-time.
+
+We are confident that our platform offers everything you need to provide a high-quality and efficient online education experience. If you have any questions or would like to know more, please do not hesitate to contact us.
 
 Best regards,
 
