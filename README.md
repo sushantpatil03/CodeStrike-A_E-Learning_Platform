@@ -34,17 +34,21 @@ Some Snapshots -
 ![image](https://user-images.githubusercontent.com/120216151/215721263-29214225-344f-4608-84b4-06e2d9a1957f.png)
 
 <h2>Admin Panel</h2>
+
 ![image](https://user-images.githubusercontent.com/120216151/215722314-d5b9c3b8-60c7-4954-969b-4e207f21991a.png)
 
 <h2>Manage Notes</h2>
+
 ![image](https://user-images.githubusercontent.com/120216151/215722451-6241bfbc-3f2e-4385-9154-9be6601f6590.png)
 ![image](https://user-images.githubusercontent.com/120216151/215722469-60843a87-870e-45fb-b58a-68dbc07e3b92.png)
 ![image](https://user-images.githubusercontent.com/120216151/215722485-a4126bd9-0a39-48a1-9882-c64fa5899f0f.png)
 
 <h2>Manage Videos</h2>
+
 ![image](https://user-images.githubusercontent.com/120216151/215722542-8b71f01c-1f2f-4758-9fe0-e1db3466d4ef.png)
 
 <h2>Manage MCQs</h2>
+
 ![image](https://user-images.githubusercontent.com/120216151/215722602-b82c5877-50d7-4316-961e-81c8d8f8eb39.png)
 
 <h1>Student's Area</h1>
